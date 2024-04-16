@@ -1,0 +1,3 @@
+[submodule "common_A"]
+	path = common_A
+	url = https://github.com/alvinChae/common_A.git
